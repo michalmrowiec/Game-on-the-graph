@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b865b8c9-6955-4567-a628-a3715bce1ce6": {
+      "ProjectGuid": "b865b8c9-6955-4567-a628-a3715bce1ce6",
+      "DisplayName": "Konkurs",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    },
+    "2d2bd5d5-1bb3-4e25-ae27-487d2ae2a30f": {
+      "ProjectGuid": "2d2bd5d5-1bb3-4e25-ae27-487d2ae2a30f",
+      "DisplayName": "Konkurs",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\Konkurs.exe
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\Konkurs.deps.json
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\Konkurs.runtimeconfig.json
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\Konkurs.dll
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\ref\Konkurs.dll
+C:\Users\micha\source\repos\Konkurs\Konkurs\bin\Release\net6.0\Konkurs.pdb
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.AssemblyInfo.cs
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.dll
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\ref\Konkurs.dll
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.pdb
+C:\Users\micha\source\repos\Konkurs\Konkurs\obj\Release\net6.0\Konkurs.genruntimeconfig.cache
